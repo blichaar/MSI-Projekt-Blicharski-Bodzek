@@ -11,17 +11,17 @@ from sklearn.preprocessing import StandardScaler
 
 warnings.filterwarnings("ignore")
 
-n_clusters = 5
+n_clusters = 3
 
-blob, blob_y = make_blobs(n_samples=30, random_state=0)
-blob2, blob2_y = make_blobs(n_samples=300, random_state=0)
+blob, blob_y = make_blobs(n_samples=100, centers=3, random_state=0)
+blob2, blob2_y = make_blobs(n_samples=300, centers=5, random_state=9930)
 blob3, blob3_y = make_blobs(n_samples=900, random_state=361)
-circle, circle_y = make_circles(n_samples=30, noise=0.17, random_state=0)
-circle2, circle2_y = make_circles(n_samples=300, noise=0.17, random_state=0)
-circle3, circle3_y = make_circles(n_samples=900, noise=0.17, random_state=361)
-moon, moon_y = make_moons(n_samples=30, noise=0.09, random_state=0)
-moon2, moon2_y = make_moons(n_samples=300, noise=0.09, random_state=0)
-moon3, moon3_y = make_moons(n_samples=900, noise=0.09, random_state=361)
+circle, circle_y = make_circles(n_samples=100, noise=0.07, random_state=0)
+circle2, circle2_y = make_circles(n_samples=300, noise=0.02, random_state=9930)
+circle3, circle3_y = make_circles(n_samples=900, noise=0.1, random_state=361)
+moon, moon_y = make_moons(n_samples=100, noise=0.08, random_state=0)
+moon2, moon2_y = make_moons(n_samples=300, noise=0.11, random_state=9930)
+moon3, moon3_y = make_moons(n_samples=900, noise=0.06, random_state=361)
 
 data = [(blob, blob_y), (blob2, blob2_y), (blob3, blob3_y), (circle, circle_y), (circle2, circle2_y),
         (circle3, circle3_y), (moon, moon_y), (moon2, moon2_y), (moon3, moon3_y)]
@@ -49,8 +49,9 @@ for count, (dat, dat_y) in enumerate(data):
             count) + ": " + "%.4f\n" % silhouette_score(
             X, labels).round(4))
     wyniki.write(
-        "Skorygowany indeks Randa algorytmu K-Means danych nr " + str(count) + ": " + "%.4f\n\n" % adjusted_rand_score(y,
-                                                                                                                 labels))
+        "Skorygowany indeks Randa algorytmu K-Means danych nr " + str(count) + ": " + "%.4f\n\n" % adjusted_rand_score(
+            y,
+            labels))
 
     plt.scatter(X[:, 0], X[:, 1], c=labels, s=5)
     plt.scatter(centroids[:, 0], centroids[:, 1], marker='x', s=150, linewidths=7, c='black')
