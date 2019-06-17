@@ -1,0 +1,117 @@
+Dane nr 0:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 0: 0.4484
+Skorygowany indeks Randa algorytmu K-Means danych nr 0: 0.5485
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 0: 0.4658
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 0: 0.5692
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 0: 0.3594
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 0: 0.5026
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 0: 0.4398
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 0: 0.6158
+
+Dane nr 1:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 1: 0.3868
+Skorygowany indeks Randa algorytmu K-Means danych nr 1: 0.5412
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 1: 0.3565
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 1: 0.5153
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 1: 0.3754
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 1: 0.4605
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 1: 0.3534
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 1: 0.6029
+
+Dane nr 2:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 2: 0.5079
+Skorygowany indeks Randa algorytmu K-Means danych nr 2: 0.7115
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 2: 0.5245
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 2: 0.7346
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 2: 0.4137
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 2: 0.5400
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 2: 0.5096
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 2: 0.7328
+
+Dane nr 3:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 3: 0.4688
+Skorygowany indeks Randa algorytmu K-Means danych nr 3: -0.0486
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 3: 0.4363
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 3: -0.0480
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 3: 0.4381
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 3: -0.0486
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 3: 0.4714
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 3: -0.0486
+
+Dane nr 4:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 4: 0.4368
+Skorygowany indeks Randa algorytmu K-Means danych nr 4: -0.0048
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 4: 0.4116
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 4: -0.0043
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 4: 0.4281
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 4: -0.0037
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 4: 0.4280
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 4: -0.0043
+
+Dane nr 5:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 5: 0.4317
+Skorygowany indeks Randa algorytmu K-Means danych nr 5: -0.0014
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 5: 0.3704
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 5: 0.0011
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 5: 0.4200
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 5: -0.0006
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 5: 0.4235
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 5: -0.0010
+
+Dane nr 6:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 6: 0.4405
+Skorygowany indeks Randa algorytmu K-Means danych nr 6: 0.2872
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 6: 0.3806
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 6: 0.1827
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 6: 0.3616
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 6: 0.2010
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 6: 0.4098
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 6: 0.2482
+
+Dane nr 7:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 7: 0.4600
+Skorygowany indeks Randa algorytmu K-Means danych nr 7: 0.2997
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 7: 0.4566
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 7: 0.3360
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 7: 0.3936
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 7: 0.4654
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 7: 0.4221
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 7: 0.3059
+
+Dane nr 8:
+Wskaünik Silhouette'a algorytmu K-Means dla danych nr 8: 0.4535
+Skorygowany indeks Randa algorytmu K-Means danych nr 8: 0.2951
+
+Wskaünik Silhouette'a algorytmu Agglomerative Clustering danych nr 8: 0.4269
+Skorygowany indeks Randa algorytmu Agglomerative Clustering danych nr 8: 0.3071
+
+Wskaünik Silhouette'a algorytmu Spectral Clustering danych nr 8: 0.4142
+Skorygowany indeks Randa algorytmu Spectral Clustering danych nr 8: 0.3444
+
+Wskaünik Silhouette'a algorytmu Gaussian Mixture danych nr 8: 0.4364
+Skorygowany indeks Randa algorytmu Gaussian Mixture danych nr 8: 0.2933
+
